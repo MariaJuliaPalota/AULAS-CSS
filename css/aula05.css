@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image:url("../img/depositphotos_195342848-stock-photo-cycling-path-ipanema-beach-rio.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+figure{
+    text-align: center;
+  
+}
+img{
+    height: 200px ;
+}

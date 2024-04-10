@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+
+}
+
+h1{
+    text-align: center;
+    text-shadow: -4px -4px 4px #fff;
+}
+p{
+    line-height: 150%;
+    text-align: center;
+}

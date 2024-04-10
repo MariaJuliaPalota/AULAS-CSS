@@ -1,0 +1,17 @@
+.elemento1{
+   height: 400px; 
+   width: 400px;
+   border: 5px solid blueviolet;
+   background-color: darkgray;
+   margin: 10px;
+   box-sizing: border-box;
+}
+
+.elemento2{
+    height: 400px; 
+    width: 400px;
+    border: 5px solid blue;
+    background-color: pink;
+    margin: 10px;
+    box-sizing: border-box;
+}
